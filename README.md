@@ -10,7 +10,7 @@ Secondary reason is to use it for simple local vanity address search for new use
  
 
 The main bitcoin core library for Java - bitcoinj-core already contains all the needed tools to make such
-program. However, it uses several (4) external dependancies itself, which forces them to be included in the pre-compiled
+program. However, it uses several (4) external dependencies itself, which forces them to be included in the pre-compiled
 version of this program.
  
 BAIT operates on a list of first 1447113 P2PKH type addresses (unencoded public key hashes). It generates a random
