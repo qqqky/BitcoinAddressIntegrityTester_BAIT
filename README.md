@@ -1,7 +1,7 @@
 # BitcoinAddressIntegrityTester_BAIT
 Bitcoin vanity address search, Bitcoin address derivation from random private keys, Bitcoin private key search
 
-This is BAIT - Bitcoin Address Integrity Tester.
+## This is BAIT - Bitcoin Address Integrity Tester.
  
 This program was created to get a practical feel on how robust is the address derivation algorithm used in Bitcoin, 
 guarded by nothing else, just the math behind it and pure vastness of possible number of addresses.
